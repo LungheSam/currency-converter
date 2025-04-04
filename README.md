@@ -1,4 +1,4 @@
-```md
+
 # 💰 Currency Converter with Flags 🌍
 
 A simple and interactive **currency converter** built with **React.js** that allows users to convert between different currencies using live exchange rates. This project also displays country flags next to currency codes for a better user experience.
