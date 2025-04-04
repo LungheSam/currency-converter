@@ -41,6 +41,7 @@ The application will start on `http://localhost:3000/`.
 2️⃣ **Select the source and target currency** (flags will be displayed).  
 3️⃣ Click **Convert** to get the result.  
 4️⃣ Use the **Swap button** 🔄 to quickly exchange the selected currencies.  
+You can try the app using this link: https://currency-converter-one-bay.vercel.app/
 
 ---
 
