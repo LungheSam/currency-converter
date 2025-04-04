@@ -18,7 +18,7 @@ A simple and interactive **currency converter** built with **React.js** that all
 
 ### 1️⃣ **Clone the repository**  
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/currency-converter.git
+git clone https://github.com/LungheSam/currency-converter.git
 cd currency-converter
 ```
 
@@ -49,7 +49,6 @@ The application will start on `http://localhost:3000/`.
 ```
 /currency-converter
 │── src/
-│   ├── components/            # Reusable components
 │   ├── currencyToCountry.js    # Currency-to-country mapping
 │   ├── App.js                  # Main app logic
 │   ├── App.css                 # Styling
