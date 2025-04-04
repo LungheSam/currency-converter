@@ -34,7 +34,7 @@ function App() {
     const result =
       (amount / exchangeRates[fromCurrency]) * exchangeRates[toCurrency];
 
-    setConvertedAmount(result.toFixed(20));
+    setConvertedAmount(result.toFixed(5));
   };
 
   const handleSwap = () => {
